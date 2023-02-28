@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">379774737631-6hpbghkt5o22r1jndtro7agkdk8r5ndc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">379774737631</string>
+    <string name="google_api_key" translatable="false">AIzaSyCB6R3O_K6dqQ-sFyaJAQ5L-g52Ay7Vsxc</string>
+    <string name="google_app_id" translatable="false">1:379774737631:android:e834f850de36567a3f5d6a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCB6R3O_K6dqQ-sFyaJAQ5L-g52Ay7Vsxc</string>
+    <string name="google_storage_bucket" translatable="false">guitar-store-14e60.appspot.com</string>
+    <string name="project_id" translatable="false">guitar-store-14e60</string>
+</resources>
